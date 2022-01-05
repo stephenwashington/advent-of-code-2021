@@ -1,3 +1,7 @@
+def process_input(filename):
+    with open(filename) as f:
+        pass
+
 def part1():
     pass
 
